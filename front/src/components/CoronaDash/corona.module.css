@@ -1,0 +1,20 @@
+.classmay {}
+
+.mainPage {
+    background-color: #611b1b;
+    background-image: url('../../assets/covid.jpg');
+    padding-top: 60px;
+    background-size: cover;
+
+}
+
+body {
+    background-color: #f7f7f7;
+}
+
+h4,
+h5 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+.new {
+    background-image: url("../../assets/news2.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.innernews {
+    width: 50%;
+    margin: auto;
+    background-color: red;
+    justify-content: center;
+    border-radius: 20px 0 20px 0;
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 4px;
+}
+
+.set {
+    background-color: #470020;
+    
+}
+
+.title {
+    border: 3px solid black;
+    background-color: #e3e1da;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 40px;
+    padding: 20px;
+}

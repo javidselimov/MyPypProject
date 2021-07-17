@@ -1,0 +1,64 @@
+.main {
+    background-image: url('../../assets/corona22.jpg');
+    background-size: cover;
+    min-height: 100vh;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+h1 {
+    color: white
+}
+
+.tada {
+
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 10px;
+    color: white;
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.middle {
+    text-align: center;
+    align-items: center;
+
+    justify-content: center;
+    width: 40%;
+    margin: auto
+}
+
+.inputcor {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+.inputbutton {
+    width: 100%;
+    border: none;
+    padding: 10px;
+    background-color: blue;
+    color: white
+}
+
+.image {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    
+}

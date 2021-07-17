@@ -1,0 +1,32 @@
+.weather {
+    
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.innerweather {
+    width: 50%;
+    margin: auto;
+    background-color: rgba(85, 85, 85, 0.63);
+    justify-content: center;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 4px;
+}
+.innerlogoutweather{
+    width: 80%;
+    margin: auto;
+    background-color: rgba(85, 85, 85, 0.63);
+    justify-content: center;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+    align-items: center;
+    text-align: center;
+   padding:5px;
+    margin-bottom: 4px;
+}

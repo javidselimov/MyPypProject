@@ -1,0 +1,13 @@
+@media (max-width: 420px) {}
+
+.card-body {
+    width: 100%;
+}
+
+.tdwrap {
+    font-weight: bold;
+}
+
+.tdcountry {
+    font-weight: bolder;
+}

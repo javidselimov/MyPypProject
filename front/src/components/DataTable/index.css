@@ -1,0 +1,18 @@
+.bgy {
+    background-color: #ff2 !important;
+}
+
+.page-item.active .page-link {
+    background-color: #ff2 !important;
+}
+
+
+@media (max-width: 420px) {
+    .card-body {
+        width: 50%
+    }
+
+    table {
+        width: 60%;
+    }
+}
