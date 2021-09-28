@@ -1,13 +1,14 @@
 # pyp-project-01-JavidSelimov12345
 pyp-project-01-JavidSelimov12345 created by GitHub Classroom
 
-## To learn more you can watch demo video in youtube about app  https://www.youtube.com/watch?v=T9LKEK-BvDg
+* To learn more you can watch demo video in youtube about app
+[youtube](https://www.youtube.com/watch?v=T9LKEK-BvDg)
 
-## Front side deployed on
+* Front side deployed on
 [Client](https://covid-weather-youtube-newsapp.netlify.app/)
 
 # For authentication i needed server side
-### server deployed on heroku 
+* server deployed on heroku 
 [server](https://server-pyp-covid.herokuapp.com/)
 
 A small comparative web application showing Covid-19 statistics, weather,youtube search,
